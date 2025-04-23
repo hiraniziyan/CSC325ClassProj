@@ -19,7 +19,7 @@
     "next": "^15.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "firebase": "^14.2.0"
+    "firebase": "^9.22.0"
   },
   "devDependencies": {
     "@types/node": "latest",
