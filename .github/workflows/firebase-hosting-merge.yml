@@ -27,3 +27,5 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_PORTFOLIO_CDDC7 }}
           channelId: live
           projectId: portfolio-cddc7
+          entryPoint: website
+
